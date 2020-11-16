@@ -1,9 +1,9 @@
 {
-    "author": "IP-Symcon User",
+    "author": "Strichcode",
     "version": "1.0",
     "compatible": 1,
     "url": "http:\/\/www.ip-symcon.de\/forum\/",
-    "git": "https:\/\/github.com\/paresy\/CustomIcons.git",
+    "git": "https://github.com/StrichcodePG/IPS-Skin",
     "icons": [
         "ASUSVivotab",
         "AVMUSB",
