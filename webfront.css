@@ -1,6 +1,6 @@
 /* Hauptschriftgröße */
 body {
-	background:#455673;
+	background:#30586e;
 	color:#fff;
 	font-size:14px;
 	font-family:arial,sans-serif;
@@ -24,12 +24,12 @@ body {
 
 .ipsLogin,
 .ipsWebFront {
-	background-color: #455673;
+	background-color: #30586e;
 }
 
 .ipsTabPane > .navigation ,
 .ipsContentChanger > .navigation {
-	background-color: #293345;
+	background-color: #152833;
 }
 
 /* WwxSkin - webfront.css */
